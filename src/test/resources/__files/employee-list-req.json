@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "employeeName": "BretTest",
+    "firstName": "Bret",
+    "lastName": "Test",
+    "email": "test1@gmail.com",
+    "password": "pass123",
+    "phone": "1287457450",
+    "employeeStatus": 0
+  },
+  {
+    "id": 2,
+    "employeeName": "Bret1Test1",
+    "firstName": "Bret1",
+    "lastName": "Test1",
+    "email": "test2@gmail.com",
+    "password": "pass123",
+    "phone": "1287457450",
+    "employeeStatus": 0
+  }
+]
